@@ -1,5 +1,6 @@
 # fantan_anbao_yxx_gunzhu_168
 番摊,暗宝,鱼虾蟹,滚珠,168飞艇游戏
 
-# https://rt1122.com 破解版,量化投注助手
+# 基于 https://rt1122.com 破解版,量化投注助手
+# 实现无人值守,批量设置,自动量化投注,自动统计结果,每次投注的历史明洗,赢得轻松,输得明白 :)
 # 飞机 @helloworldhellokitty
